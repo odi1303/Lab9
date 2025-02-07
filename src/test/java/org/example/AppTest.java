@@ -4,7 +4,6 @@ import javafx.scene.Scene;
 import javafx.scene.control.TextArea;
 import javafx.stage.Stage;
 import org.junit.jupiter.api.*;
-
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;

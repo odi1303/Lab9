@@ -35,6 +35,5 @@
       <Button fx:id="TWO" layoutX="166.0" layoutY="148.0" mnemonicParsing="false" onAction="#writing2" prefHeight="26.0" prefWidth="43.0" text="2" />
       <Button fx:id="ONE" layoutX="105.0" layoutY="148.0" mnemonicParsing="false" onAction="#writing1" prefHeight="26.0" prefWidth="43.0" text="1" />
       <Button fx:id="clear" layoutX="223.0" layoutY="104.0" mnemonicParsing="false" onAction="#clearExpression" prefHeight="26.0" prefWidth="43.0" text="Clear" />
-      <Button fx:id="ק" layoutX="45.0" layoutY="20.0" mnemonicParsing="false" onAction="#press" prefHeight="26.0" prefWidth="43.0" text="ק" />
    </children>
 </AnchorPane>
